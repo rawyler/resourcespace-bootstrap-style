@@ -1,0 +1,7 @@
+name: bootstrap
+author: Thomas Rawyler
+version: 0.1
+desc: Provides a bootstrap style
+info_url: http://github.com/resourcespace_bootstrap
+config_url: /plugins/bootstrap/pages/setup.php
+default_priority: 999
